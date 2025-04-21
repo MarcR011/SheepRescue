@@ -6,3 +6,5 @@ The implementations include:
 - Adding sound effects (When shooting, when a sheep is saved and when a sheep is droped)
 - Keeping Score (Counting the saved and droped sheeps and showing it with UI)
 - UI (Adding a main screen to play or quit the game)
+
+There is a release with the build of the project
